@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**hazalsavran/hazalsavran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, I'm Hazal!
 
-Here are some ideas to get you started:
+🎯 I'm working as a **.NET Backend Developer**. With a background in software engineering, I enjoy building robust and scalable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 My main areas of interest include:
+
+- C#, ASP.NET Core  
+- RESTful API development  
+- Website development with MVC  
+- Software architecture & clean code principles  
+
+🧩 I've taken part in enterprise-level projects using technologies like ASP.NET MVC, Web API (RESTful & SOAP), and .NET Core. In these projects, I have:
+
+- Utilized architectural patterns such as **Layered Architecture**, **Clean Architecture**, **Onion Architecture**, and **CQRS**  
+- Designed and optimized databases using **SQL**, **MongoDB**, **Redis**, and **PostgreSQL**  
+- Developed modern solutions with tools like **RabbitMQ**, **SignalR**, and **Docker**  
+
+🐱 I'm a cat lover, and coffee keeps me going ☕  
+🧠 Always eager to learn new technologies and contribute to open-source projects.
+
+📫 Feel free to reach out: [LinkedIn – Hazal Savran](https://www.linkedin.com/in/hazalsavran/)
+ ✉️ hazalsavran@gmail.com
